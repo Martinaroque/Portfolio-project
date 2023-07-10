@@ -85,8 +85,10 @@ font-family: 'Comfortaa', cursive;
 font-family: 'Comfortaa', cursive;
 font-family: 'Ysabeau SC', sans-serif;
   }
- 
- 
+.email{
+
+    color: #66bfbf;
+}
 @media (max-width:900px){
 
     .colTextH2{
