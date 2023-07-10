@@ -1,0 +1,17 @@
+.heading{
+
+    display: flex;
+    background: red;
+    padding: 10px;
+    max-width: 200px;
+    border-radius: 4px;
+    margin: 10px;
+}
+.fa-brands{
+
+    flex: 1;
+}
+h1{
+
+    color: white;
+}
