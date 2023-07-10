@@ -3,7 +3,9 @@
     --heading-color: #66bfbf;
 }
 
-
+.active{
+    color:#eaf6f6 ;
+}
 .fistHalf{
 
     background:#eaf6f6;
