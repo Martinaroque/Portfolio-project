@@ -34,7 +34,31 @@
     border: 1px solid #e7eaf6;
 padding: 60px;
 border-radius: 4px;
+max-width: 500px;
+margin-bottom: 20px;
 }
+.mama{
+    width: 400px;
+}
+.tempo{
+    width: 450px;
+}
+
+.about-section h1{
+
+    font-size: 48px;
+    line-height: 80px;
+}
+.about-section h2{
+
+    font-size: 18px;
+
+}
+.myFoto{
+
+    width: 400px;
+}
+
 @media (max-width:900px){
 
     .colTextH2{
