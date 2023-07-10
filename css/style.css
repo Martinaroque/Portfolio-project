@@ -43,18 +43,18 @@ margin-bottom: 20px;
 .tempo{
     width: 450px;
 }
-.about-section{
+.content-container{
     padding: 160px 20px;
     text-align: center;
     padding: 0;
 }
-.about-section h1{
+.content-container h1{
 
     font-size: 48px;
     line-height: 60px;
     margin-bottom: 30px;
 }
-.about-section h2{
+.content-container h2{
 
     font-size: 18px;
 
@@ -63,7 +63,7 @@ margin-bottom: 20px;
 
     width: 400px;
 }
-.about-section-content{
+.content{
     padding: 30px;
 }
 
