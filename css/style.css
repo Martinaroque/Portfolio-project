@@ -86,6 +86,7 @@ font-family: 'Comfortaa', cursive;
 font-family: 'Ysabeau SC', sans-serif;
   }
  
+ 
 @media (max-width:900px){
 
     .colTextH2{
@@ -101,5 +102,7 @@ font-family: 'Ysabeau SC', sans-serif;
     
         font-size: 10px;
     }
+   
+    
 
     }
