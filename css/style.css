@@ -89,6 +89,13 @@ font-family: 'Ysabeau SC', sans-serif;
 
     color: #66bfbf;
 }
+footer .contact-box{
+
+    background: #eaf6f6;
+    padding: 20px;
+  
+    margin: 50px;
+}
 @media (max-width:900px){
 
     .colTextH2{
