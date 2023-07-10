@@ -1,17 +1,24 @@
-.heading{
+.fistHalf{
 
-    display: flex;
-    background: red;
-    padding: 10px;
-    max-width: 200px;
-    border-radius: 4px;
-    margin: 10px;
+    background:#eaf6f6;
+    text-align: center;
+    padding: 15px;
+    
 }
-.fa-brands{
+h2{
 
-    flex: 1;
+    font-size: small;
+    margin: 15px;
+    font-weight: normal;
 }
-h1{
-    font-family: 'Comfortaa', cursive;
-    color: white;
+.btn{
+
+    background: #66bfbf;
+    border: 1px solid #66bfbf ;
+}
+.btn:hover{
+
+    color:#66bfbf;
+    background: white;
+    border: 1px solid #66bfbf ;
 }
