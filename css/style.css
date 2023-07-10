@@ -12,7 +12,7 @@
    
     
 }
-h2{
+.headingH2{
 
     font-size: small;
     margin: 15px;
@@ -29,3 +29,25 @@ h2{
     background: white;
     border: 1px solid var(--heading-color);
 }
+.text{
+
+    border: 1px solid #e7eaf6;
+padding: 60px;
+border-radius: 4px;
+}
+@media (max-width:900px){
+
+    .colTextH2{
+    
+        font-size: 15px;
+    
+    }
+    .colTextP{
+    
+    font-size: 10px;
+    }
+    .btn{
+    
+        font-size: 10px;
+    }
+    }
