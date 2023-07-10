@@ -1,8 +1,15 @@
+:root{
+
+    --heading-color: #66bfbf;
+}
+
+
 .fistHalf{
 
     background:#eaf6f6;
     text-align: center;
     padding: 15px;
+   
     
 }
 h2{
@@ -13,12 +20,12 @@ h2{
 }
 .btn{
 
-    background: #66bfbf;
-    border: 1px solid #66bfbf ;
+    background: var(--heading-color);
+    border: 1px solid var(--heading-color);
 }
 .btn:hover{
 
-    color:#66bfbf;
+    color:var(--heading-color);
     background: white;
-    border: 1px solid #66bfbf ;
+    border: 1px solid var(--heading-color);
 }
